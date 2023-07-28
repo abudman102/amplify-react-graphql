@@ -1,0 +1,12 @@
+{
+  "resourceName": "CSVstorage",
+  "policyUUID": "96988eb4",
+  "bucketName": "s3uploadcsv",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifyreactgraphql74ae56f4": {}
+      },
+      "storage": {
+        "CSVstorage": {}
       }
     }
   }
